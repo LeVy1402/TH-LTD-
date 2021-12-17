@@ -8,11 +8,16 @@
         <entry key="..\:/AndroidStudioProjects/HoatDongNgoaiKhoa/app/src/main/res/drawable/border_login.xml" value="0.3828125" />
         <entry key="..\:/AndroidStudioProjects/HoatDongNgoaiKhoa/app/src/main/res/drawable/text_border.xml" value="0.3828125" />
         <entry key="..\:/AndroidStudioProjects/HoatDongNgoaiKhoa/app/src/main/res/layout/activity_cthoatdong.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/HoatDongNgoaiKhoa/app/src/main/res/layout/activity_hoat_dong.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/HoatDongNgoaiKhoa/app/src/main/res/layout/activity_hoat_dong_cd.xml" value="0.35260416666666666" />
         <entry key="..\:/AndroidStudioProjects/HoatDongNgoaiKhoa/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidStudioProjects/HoatDongNgoaiKhoa/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
-        <entry key="..\:/AndroidStudioProjects/HoatDongNgoaiKhoa/app/src/main/res/layout/activity_quanlyhoatdong.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/HoatDongNgoaiKhoa/app/src/main/res/layout/activity_quanlyhoatdong.xml" value="0.33" />
         <entry key="..\:/AndroidStudioProjects/HoatDongNgoaiKhoa/app/src/main/res/layout/dashboard.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/HoatDongNgoaiKhoa/app/src/main/res/layout/fragment_q_lhoatdongcd.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/HoatDongNgoaiKhoa/app/src/main/res/layout/fragment_q_lhoatdongdd.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidStudioProjects/HoatDongNgoaiKhoa/app/src/main/res/layout/item_dashboard.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/HoatDongNgoaiKhoa/app/src/main/res/layout/item_qlhd.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidStudioProjects/HoatDongNgoaiKhoa/app/src/main/res/layout/wellcome.xml" value="0.36666666666666664" />
       </map>
     </option>
