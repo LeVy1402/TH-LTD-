@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CC6631A0">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="241dp"
+        android:layout_height="220dp"
+        android:src="@drawable/anhlon"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="550dp"
+        android:background="@drawable/border_login"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView2"
+        app:layout_constraintVertical_bias="1.0">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="QUẢN LÝ"
+                android:textColor="#6631A0"
+                android:textSize="30dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"/>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HOẠT ĐỘNG NGOẠI KHÓA"
+                android:textColor="#6631A0"
+                android:textSize="26dp"
+                android:textStyle="bold"
+                android:layout_gravity="center"/>
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tên đăng nhập"
+                android:textColor="#6631A0"
+                android:textSize="18dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"/>
+
+            <EditText
+                android:id="@+id/ed_TaiKhoan"
+                android:layout_width="320dp"
+                android:layout_height="40dp"
+                android:background="@drawable/text_border"
+                android:paddingLeft="10px"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="20dp"/>
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10px"
+                android:text="Mật khẩu"
+                android:textColor="#6631A0"
+                android:textSize="18dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="20dp"/>
+
+            <EditText
+                android:id="@+id/ed_MatKhau"
+                android:layout_width="320dp"
+                android:layout_height="40dp"
+                android:background="@drawable/text_border"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="20dp"/>
+
+            <Button
+                android:id="@+id/btn_DangNhap1"
+                android:layout_width="164dp"
+                android:layout_height="45dp"
+                android:background="#6631A0"
+                android:text="Đăng Nhập"
+                android:textColor="@color/white"
+                android:textSize="22dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="50dp"/>
+        </LinearLayout>
+
+
+
+
+
+
+
+
+
+    </FrameLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
